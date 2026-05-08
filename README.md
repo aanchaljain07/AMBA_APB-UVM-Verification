@@ -34,7 +34,9 @@ The verification environment consists of:
 
 ## Verification Architecture
 
-![Architecture](images/APB_Verification_Architecture.png)
+<img width="1247" height="508" alt="APB_Verification_Architecture" src="https://github.com/user-attachments/assets/19fe182e-149c-457e-9af9-4e3b1e204788" />
+
+
 
 ## Components Description
 
@@ -57,15 +59,18 @@ Top-level container connecting all verification components.
 
 ### APB Write Transaction
 
-![Write Waveform](images/APB_write_transaction.png)
+<img width="1911" height="496" alt="APB_write_read_transaction" src="https://github.com/user-attachments/assets/3aac34eb-d48d-480a-9662-95719c16970f" />
+
 
 ### APB Read Transaction
 
-![Read Waveform](images/APB_read_transaction.png)
+<img width="1920" height="494" alt="APB_read_transaction" src="https://github.com/user-attachments/assets/a48eba1b-9c51-4bca-984f-68d110fc3580" />
+
 
 ### APB Write And Read Transaction
 
-![Write Waveform](images/APB_write_read_transaction.png)
+
+<img width="1911" height="496" alt="APB_write_read_transaction" src="https://github.com/user-attachments/assets/7303ea8d-211d-455c-8e35-b41e958b65de" />
 
 
 ## Tools and Technologies
