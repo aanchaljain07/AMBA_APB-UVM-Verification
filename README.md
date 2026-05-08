@@ -34,7 +34,7 @@ The verification environment consists of:
 
 ## Verification Architecture
 
-![Architecture](images/apb_architecture.png)
+![Architecture](images/APB_Verification_Architecture.png)
 
 ## Components Description
 
@@ -57,11 +57,15 @@ Top-level container connecting all verification components.
 
 ### APB Write Transaction
 
-![Write Waveform](images/write_waveform.png)
+![Write Waveform](images/APB_write_transaction.png)
 
 ### APB Read Transaction
 
-![Read Waveform](images/read_waveform.png)
+![Read Waveform](images/APB_read_transaction.png)
+
+### APB Write And Read Transaction
+
+![Write Waveform](images/APB_write_read_transaction.png)
 
 
 ## Tools and Technologies
